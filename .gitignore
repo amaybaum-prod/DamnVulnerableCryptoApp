@@ -1,9 +1,8 @@
 node_modules
-frontend/build
 backend/dist
-backend/build
 */.nyc_output
 backend/src/documentation
 flags.json
 *.DS_Store
 Icon
+.idea
